@@ -1,4 +1,4 @@
-# roberta-ner-ka
+# Georgian Named Entity Recognition Model
 xlm-roberta-base fine-tuned on the Georgian [WikiANN](https://huggingface.co/datasets/wikiann) NER dataset. Huggingface link [here.](https://huggingface.co/alexamiredjibi/xlm-roberta-base-ka-ner) 
 
 # Evaluation
