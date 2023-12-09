@@ -1,14 +1,20 @@
 # roberta-ner-ka
 xlm-roberta-base fine-tuned on the Georgian [WikiANN](https://huggingface.co/datasets/wikiann) NER dataset. Huggingface link [here.](https://huggingface.co/alexamiredjibi/xlm-roberta-base-ka-ner) 
 
+# Metrics
+
 Loss: 0.2031
+
 Precision: 0.8506
+
 Recall: 0.8703
+
 F1: 0.8603
+
 Accuracy: 0.9425
 
 
-Usage:
+## Usage
 ```python
 # Use a pipeline as a high-level helper
 from transformers import pipeline
