@@ -1,7 +1,7 @@
 # Georgian Named Entity Recognition Model
 XLM-Roberta-Base fine-tuned on the Georgian [WikiANN](https://huggingface.co/datasets/wikiann) NER dataset. Huggingface link [here.](https://huggingface.co/alexamiredjibi/xlm-roberta-base-ka-ner) 
 
-# Evaluation
+## Evaluation
 
 | Metric    | Value  |
 |-----------|--------|
